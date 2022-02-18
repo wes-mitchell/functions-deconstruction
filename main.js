@@ -1,4 +1,4 @@
-// Brush Your Teeth
+// Brush Your Teeth Exercise
 // 1. purchase toothbrush
 // 2. purchase toothpaste
 // 3. rinse toothbrush
